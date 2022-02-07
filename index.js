@@ -1,4 +1,2 @@
-var FName = "Temur";
-var surName = "Urunov";
+"use strict"
 
-console.log(FName + " " + surName);
